@@ -1,0 +1,88 @@
+{
+    "Routes": [
+        {
+            "UpstreamPathTemplate": "/api/account",
+            "UpstreamHttpMethod": [
+                "POST"
+            ],
+            "DownstreamScheme": "http",
+            "DownstreamHostAndPorts": [
+                {
+                    "Host": "localhost",
+                    "Port": 5103
+                }
+            ],
+            "DownstreamPathTemplate": "/account"
+        },
+        {
+            "UpstreamPathTemplate": "/api/account/register",
+            "UpstreamHttpMethod": [
+                "POST"
+            ],
+            "DownstreamScheme": "http",
+            "DownstreamHostAndPorts": [
+                {
+                    "Host": "localhost",
+                    "Port": 5103
+                }
+            ],
+            "DownstreamPathTemplate": "/account/register"
+        },
+        {
+            "UpstreamPathTemplate": "/api/payments",
+            "UpstreamHttpMethod": [
+                "GET",
+                "POST",
+                "PUT",
+                "DELETE"
+            ],
+            "DownstreamScheme": "http",
+            "DownstreamHostAndPorts": [
+                {
+                    "Host": "localhost",
+                    "Port": 5229
+                }
+            ],
+            "DownstreamPathTemplate": "/api/payments",
+            "AuthenticationOptions": {
+                "AuthenticationProviderKey": "Bearer"
+            }
+        },
+        {
+            "UpstreamPathTemplate": "/api/payments/{id}",
+            "UpstreamHttpMethod": [
+                "GET",
+                "PUT",
+                "DELETE"
+            ],
+            "DownstreamScheme": "http",
+            "DownstreamHostAndPorts": [
+                {
+                    "Host": "localhost",
+                    "Port": 5229
+                }
+            ],
+            "DownstreamPathTemplate": "/api/payments/{id}"
+        },
+        {
+            "UpstreamPathTemplate": "/api/email",
+            "UpstreamHttpMethod": [
+                "POST"
+            ],
+            "DownstreamScheme": "http",
+            "DownstreamHostAndPorts": [
+                {
+                    "Host": "localhost",
+                    "Port": 5230
+                }
+            ],
+            "DownstreamPathTemplate": "/api/email",
+            "AuthenticationOptions": {
+                "AuthenticationProviderKey": "Bearer"
+            }
+        }
+    ],
+    "GlobalConfiguration": {
+        "BaseUrl": "http://localhost:5000"
+    }
+}

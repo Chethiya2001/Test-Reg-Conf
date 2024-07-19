@@ -1,0 +1,12 @@
+C:\Users\USER\Desktop\test\Common.API\src\common.Api\bin\Release\net8.0\common.Api.deps.json
+C:\Users\USER\Desktop\test\Common.API\src\common.Api\bin\Release\net8.0\common.Api.dll
+C:\Users\USER\Desktop\test\Common.API\src\common.Api\bin\Release\net8.0\common.Api.pdb
+C:\Users\USER\Desktop\test\Common.API\src\common.Api\obj\Release\net8.0\common.Api.csproj.AssemblyReference.cache
+C:\Users\USER\Desktop\test\Common.API\src\common.Api\obj\Release\net8.0\common.Api.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USER\Desktop\test\Common.API\src\common.Api\obj\Release\net8.0\common.Api.AssemblyInfoInputs.cache
+C:\Users\USER\Desktop\test\Common.API\src\common.Api\obj\Release\net8.0\common.Api.AssemblyInfo.cs
+C:\Users\USER\Desktop\test\Common.API\src\common.Api\obj\Release\net8.0\common.Api.csproj.CoreCompileInputs.cache
+C:\Users\USER\Desktop\test\Common.API\src\common.Api\obj\Release\net8.0\common.Api.dll
+C:\Users\USER\Desktop\test\Common.API\src\common.Api\obj\Release\net8.0\refint\common.Api.dll
+C:\Users\USER\Desktop\test\Common.API\src\common.Api\obj\Release\net8.0\common.Api.pdb
+C:\Users\USER\Desktop\test\Common.API\src\common.Api\obj\Release\net8.0\ref\common.Api.dll

@@ -1,0 +1,11 @@
+C:\Users\USER\Desktop\test\Payment.Api\Api.Payment.Contracts\bin\Release\net8.0\Api.Payment.Contracts.deps.json
+C:\Users\USER\Desktop\test\Payment.Api\Api.Payment.Contracts\bin\Release\net8.0\Api.Payment.Contracts.dll
+C:\Users\USER\Desktop\test\Payment.Api\Api.Payment.Contracts\bin\Release\net8.0\Api.Payment.Contracts.pdb
+C:\Users\USER\Desktop\test\Payment.Api\Api.Payment.Contracts\obj\Release\net8.0\Api.Payment.Contracts.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USER\Desktop\test\Payment.Api\Api.Payment.Contracts\obj\Release\net8.0\Api.Payment.Contracts.AssemblyInfoInputs.cache
+C:\Users\USER\Desktop\test\Payment.Api\Api.Payment.Contracts\obj\Release\net8.0\Api.Payment.Contracts.AssemblyInfo.cs
+C:\Users\USER\Desktop\test\Payment.Api\Api.Payment.Contracts\obj\Release\net8.0\Api.Payment.Contracts.csproj.CoreCompileInputs.cache
+C:\Users\USER\Desktop\test\Payment.Api\Api.Payment.Contracts\obj\Release\net8.0\Api.Payment.Contracts.dll
+C:\Users\USER\Desktop\test\Payment.Api\Api.Payment.Contracts\obj\Release\net8.0\refint\Api.Payment.Contracts.dll
+C:\Users\USER\Desktop\test\Payment.Api\Api.Payment.Contracts\obj\Release\net8.0\Api.Payment.Contracts.pdb
+C:\Users\USER\Desktop\test\Payment.Api\Api.Payment.Contracts\obj\Release\net8.0\ref\Api.Payment.Contracts.dll

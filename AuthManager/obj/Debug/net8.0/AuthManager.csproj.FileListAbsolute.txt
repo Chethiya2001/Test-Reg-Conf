@@ -1,0 +1,13 @@
+C:\Users\USER\Desktop\test\AuthManager\bin\Debug\net8.0\AuthManager.deps.json
+C:\Users\USER\Desktop\test\AuthManager\bin\Debug\net8.0\AuthManager.dll
+C:\Users\USER\Desktop\test\AuthManager\bin\Debug\net8.0\AuthManager.pdb
+C:\Users\USER\Desktop\test\AuthManager\obj\Debug\net8.0\AuthManager.csproj.AssemblyReference.cache
+C:\Users\USER\Desktop\test\AuthManager\obj\Debug\net8.0\AuthManager.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USER\Desktop\test\AuthManager\obj\Debug\net8.0\AuthManager.AssemblyInfoInputs.cache
+C:\Users\USER\Desktop\test\AuthManager\obj\Debug\net8.0\AuthManager.AssemblyInfo.cs
+C:\Users\USER\Desktop\test\AuthManager\obj\Debug\net8.0\AuthManager.csproj.CoreCompileInputs.cache
+C:\Users\USER\Desktop\test\AuthManager\obj\Debug\net8.0\AuthManager.dll
+C:\Users\USER\Desktop\test\AuthManager\obj\Debug\net8.0\refint\AuthManager.dll
+C:\Users\USER\Desktop\test\AuthManager\obj\Debug\net8.0\AuthManager.pdb
+C:\Users\USER\Desktop\test\AuthManager\obj\Debug\net8.0\ref\AuthManager.dll
+C:\Users\USER\Desktop\test\AuthManager\obj\Debug\net8.0\AuthManager.sourcelink.json

@@ -31,7 +31,7 @@ This project demonstrates a microservices architecture for user registration, pa
 - dotnet ef migrations add InitialMigration --startup-project . --project ../AuthManager
 - dotnet ef database update --startup-project . --project ../AuthManager
 
-4. Run services
+4. **Run services**
 
 - Clone GitHub repository
 - Run docker desktop -> goto infra file -> open terminal then run `docker-compose up -d`

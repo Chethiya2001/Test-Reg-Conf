@@ -26,8 +26,9 @@ This project demonstrates a microservices architecture for user registration, pa
 
 - Docker
 - DotNet-8
-## Run services
+
+4. Run services
 
 - Clone GitHub repository
-- Run docker desktop -> goto infra file -> open terminal then run #docker-compose up -d
-- Open Project files int terminal (Api.Gateway/Api.Payment/Api.Email/AuthSrvice.Api -> #dotnet run
+- Run docker desktop -> goto infra file -> open terminal then run `docker-compose up -d`
+- Open Project files in the terminal (Api.Gateway/Api.Payment/Api.Email/AuthSrvice.Api -> `dotnet run`

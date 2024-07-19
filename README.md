@@ -26,6 +26,10 @@ This project demonstrates a microservices architecture for user registration, pa
 
 - Docker
 - DotNet-8
+## Databse Migration
+- **Goto AuthApiService:**
+- dotnet ef migrations add InitialMigration --startup-project . --project ../AuthManager
+- dotnet ef database update --startup-project . --project ../AuthManager
 
 4. Run services
 
